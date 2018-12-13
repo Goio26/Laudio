@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Laudio</string>
     <string name="inicio">Laudio</string>
-
+    <string name="textoIni">Ea asmatzen dusuen argazki honetan agertzen den zatia zein eraikinarekin bat</string>
+    <string name="textoMal">Ui! Kontuz! Ez diozue erantzun zuzenari eman! Saiatu berriro</string>
+    <string name="textoBien">Oso ondo! Oso azkarrak zarete gero!</string>
+    <string name="respMal1">SUHILTZAILEEN EGOITZA</string>
+    <string name="respMal2">INSTITUKO EGOITZA</string>
+    <string name="respBien">LAMUZAKO ELIZA</string>
 </resources>

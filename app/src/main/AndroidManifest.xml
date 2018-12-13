@@ -11,17 +11,15 @@
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
         <activity android:name=".ExplicacionInicial" />
-        <activity android:name=".SplashScreen">
-
-        </activity>
+        <activity android:name=".SplashScreen"></activity>
         <activity android:name=".Conver_inicial">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+        <activity android:name=".Foto_completa"></activity>
     </application>
 
 </manifest>
